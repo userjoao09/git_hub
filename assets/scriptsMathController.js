@@ -6,9 +6,4 @@ function sum(a, b) {
     return a + b;
 }
 
-resultSum = sum(10, 40);
-if (resultSum < 10) {
-    console.log("O resultado da soma é menor que 10");
-}
-
-console.log("O resultado da soma é maior que 10");
+console.log(sum);
